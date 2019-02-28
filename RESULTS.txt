@@ -1,0 +1,7 @@
+4-1 Series Output INDIA wins
+Most fours-- Virat Kohli
+Most Sixes-- Rohit Sharma
+Most Wickets-- Mohammed Shami
+Maximum Runs-- Rohit Sharma
+
+*Analysis Given in the Jupyter Notebooks
